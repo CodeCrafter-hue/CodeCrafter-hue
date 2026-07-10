@@ -119,12 +119,7 @@ const tarkeshwar = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeCrafter-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafter-hue&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com/?user=CodeCrafter-hue&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeCrafter-hue&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
