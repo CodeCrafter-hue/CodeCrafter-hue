@@ -156,7 +156,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
 
-Then embed it here:
+
 <img src="https://raw.githubusercontent.com/CodeCrafter-hue/CodeCrafter-hue/output/github-contribution-grid-snake-dark.svg" />
 
 
