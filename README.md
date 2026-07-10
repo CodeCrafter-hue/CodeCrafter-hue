@@ -128,10 +128,7 @@ const tarkeshwar = {
 
 </div>
 
-<!--
-🐍 Contribution Snake Animation Setup:
-1. Add the workflow below at .github/workflows/snake.yml in your CodeCrafter-hue/CodeCrafter-hue repo
-2. It generates the SVG automatically on a schedule
+
 
 name: Generate Snake
 on:
@@ -161,7 +158,7 @@ jobs:
 
 Then embed it here:
 <img src="https://raw.githubusercontent.com/CodeCrafter-hue/CodeCrafter-hue/output/github-contribution-grid-snake-dark.svg" />
--->
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/CodeCrafter-hue/CodeCrafter-hue/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
