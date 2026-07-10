@@ -129,42 +129,8 @@ const tarkeshwar = {
 </div>
 
 
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-permission:
-  contents: write
-  pages: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: CodeCrafter-hue
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=tokyo-night
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/*.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
-
-
-<img src="https://raw.githubusercontent.com/CodeCrafter-hue/CodeCrafter-hue/output/github-contribution-grid-snake-dark.svg" />
-
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/CodeCrafter-hue/CodeCrafter-hue/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://github.com/CodeCrafter-hue/CodeCrafter-hue/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Snake" width="100%"/>
 </div>
 
 <br/>
