@@ -49,12 +49,13 @@ const tarkeshwar = {
 
 </div>
 
-| Platform | Profile | Focus |
+<div align="center">
+  | Platform | Profile | Focus |
 |:---:|:---:|:---|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange&labelColor=1a1b26) | [View Profile](https://leetcode.com/u/kumartarkeshwar276) | Data Structures & Algorithms |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b26) | [View Profile](https://www.codechef.com/users/kumartarkeshwa) | Competitive Programming |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b26) | [View Profile](https://www.hackerrank.com/profile/tk553025) | Problem Solving |
-
+</div>
 
 <br/>
 
@@ -104,7 +105,8 @@ const tarkeshwar = {
 
 </div>
 
-| Category | Technologies |
+<div align="center>
+  | Category | Technologies |
 |:---|:---|
 | 💻 **Languages** | JavaScript (ES6+), HTML5, CSS3 |
 | ⚙️ **Backend** | Node.js, Express.js, REST APIs |
@@ -112,6 +114,7 @@ const tarkeshwar = {
 | 🗄️ **Database** | MongoDB, Mongoose |
 | ☁️ **Deployment** | Render, GitHub Actions (CI) |
 | 🛠️ **Tooling** | Git, GitHub, VS Code, Postman |
+  </div>
 
 <br/>
 
