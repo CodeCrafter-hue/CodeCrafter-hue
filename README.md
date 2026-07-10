@@ -137,6 +137,9 @@ on:
   workflow_dispatch: {}
   push:
     branches: [ main ]
+permission:
+  contents: write
+  pages: write
 jobs:
   generate:
     runs-on: ubuntu-latest
