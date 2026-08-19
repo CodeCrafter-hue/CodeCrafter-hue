@@ -43,8 +43,8 @@ const tarkeshwar = {
 
 <div align="center">
 
-<a href="https://leetcode.com/u/kumartarkeshwar276">
-  <img src="https://leetcard.jacoblin.cool/kumartarkeshwar276?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/tarkeshwar001">
+  <img src="https://leetcard.jacoblin.cool/tarkeshwar001?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
 </div>
@@ -52,7 +52,7 @@ const tarkeshwar = {
 
   | Platform | Profile | Focus |
 |:---:|:---:|:---|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange&labelColor=1a1b26) | [View Profile](https://leetcode.com/u/kumartarkeshwar276) | Data Structures & Algorithms |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange&labelColor=1a1b26) | [View Profile](https://leetcode.com/u/tarkeshwar001) | Data Structures & Algorithms |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b26) | [View Profile](https://www.codechef.com/users/kumartarkeshwa) | Competitive Programming |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b26) | [View Profile](https://www.hackerrank.com/profile/tk553025) | Problem Solving |
 
@@ -158,7 +158,7 @@ const tarkeshwar = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26)](https://linkedin.com/in/tarkeshwar-kumar-y-86584622a)
 [![GitHub](https://img.shields.io/badge/GitHub-CodeCrafter--hue-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/CodeCrafter-hue)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-9ece6a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b26)](https://YOUR_PORTFOLIO_URL.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1b26)](https://leetcode.com/u/kumartarkeshwar276)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1b26)](https://leetcode.com/u/tarkeshwar001)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b26)](https://x.com/yaduvanshi8651)
 
 </div>
